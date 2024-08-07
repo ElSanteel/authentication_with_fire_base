@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "655082048573",
+    "project_id": "authenticationapp-e7248",
+    "storage_bucket": "authenticationapp-e7248.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655082048573:android:9776bc5d03a7c9e67aae54",
+        "android_client_info": {
+          "package_name": "com.example.authenticationapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCblUJDLajDJgyxurj1irtd0M6nAndCRAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655082048573:android:2cbfad63719ef91b7aae54",
+        "android_client_info": {
+          "package_name": "com.example.firebase_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCblUJDLajDJgyxurj1irtd0M6nAndCRAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
